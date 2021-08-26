@@ -42,7 +42,7 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- <img src="faculty-of-science-alexandria-university.jpg" width="20" draggable="false"> Computer Science Student  <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a>
+- <img style="margin-top:3px;" src="faculty-of-science-alexandria-university.jpg" width="20" draggable="false"> Computer Science Student  <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="20" draggable="false"> I am passionate about Back-End Development and Competitive Programming. 
 
