@@ -5,8 +5,8 @@
 <!-- **"Premature optimization is the root of all evil"** -->
 
 
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev) -->
-<!-- <img src="https://komarev.com/ghpvc/?username=aminyasser&label=Profile%20views&color=0e75b6&style=flat" alt="amin" /> -->
+ [![Repos Badge](https://badges.pufler.dev/repos/aminyasser)](https://badges.pufler.dev) 
+ <img src="https://komarev.com/ghpvc/?username=aminyasser&label=Profile%20views&color=0e75b6&style=flat" alt="amin" /> 
 
 
 </div>
