@@ -17,21 +17,24 @@
 
 <div align="center">
 
+<a href="https://twitter.com/aminyasser0">
+<img align="left" alt="hemdan | Twitter" width="30px" src="icons/twitter.png" draggable="false" />
+</a>
 
 <a href="https://www.linkedin.com/in/aminyasser/">
-  <img align="left" alt="amin's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  <img align="left" alt="amin's LinkdeIN" width="30px" src="icons/linkedIn.png" draggable="false" />
 </a>
 
 <a href="https://github.com/aminyasser">
-  <img align="left" alt="amin's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+  <img align="left" alt="amin's github" width="30px" src="icons/github.png" draggable="false" />
 </a>
 
 <a href="mailto:alaminyasser0@gmail.com">
-  <img align="left" alt="amin's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" alt="amin's gmail" width="30px" src="icons/Gmail.png" draggable="false" />
 </a>
 
 <a href="https://codeforces.com/profile/Amenyasser5">
-  <img align="left" alt="amin's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
+  <img align="left" alt="amin's codeforces" width="40px" src="icons/codeforces.png" draggable="false" />
 </a>
 
 </div>
@@ -42,11 +45,11 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- 🎓 Computer Science Student  <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a> 
+- 🎓 Computer Science Fresh graduate <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a> 
 
 - ⚡ I am passionate about Back-End Development and Competitive Programming. 
 
-- 📖 I'm currently Studying Algorithms and Database Systems.
+- 📖 I'm currently Studying Algorithms and Database Systems
 
 
 
