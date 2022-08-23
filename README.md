@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<!-- **"Premature optimization is the root of all evil"** -->
 
 
- [![Repos Badge](https://badges.pufler.dev/repos/aminyasser)](https://badges.pufler.dev) 
  <img src="https://komarev.com/ghpvc/?username=aminyasser&label=Profile%20views&color=0e75b6&style=flat" alt="amin" /> 
 
 
@@ -45,7 +43,7 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- 🎓 Computer Science Fresh graduate <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a> 
+- 🎓 Computer Science graduate <a href="https://sci.alexu.edu.eg/index.php/en/">@Faculty of Science Alexandria University</a> 
 
 - ⚡ I am passionate about Back-End Development and Competitive Programming. 
 
